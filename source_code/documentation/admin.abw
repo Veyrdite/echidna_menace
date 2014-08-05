@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE abiword PUBLIC "-//ABISOURCE//DTD AWML 1.0 Strict//EN" "http://www.abisource.com/awml.dtd">
+<abiword template="false" xmlns:ct="http://www.abisource.com/changetracking.dtd" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:math="http://www.w3.org/1998/Math/MathML" xid-max="381" xmlns:dc="http://purl.org/dc/elements/1.1/" styles="unlocked" fileformat="1.1" xmlns:svg="http://www.w3.org/2000/svg" xmlns:awml="http://www.abisource.com/awml.dtd" xmlns="http://www.abisource.com/awml.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.9.1" xml:space="preserve" props="dom-dir:ltr; document-footnote-restart-section:0; document-endnote-type:numeric; document-endnote-place-enddoc:1; document-endnote-initial:1; lang:en-AU; document-endnote-restart-section:0; document-footnote-restart-page:0; document-footnote-type:numeric; document-footnote-initial:1; document-endnote-place-endsection:0">
+<!-- ======================================================================== -->
+<!-- This file is an AbiWord document.                                        -->
+<!-- AbiWord is a free, Open Source word processor.                           -->
+<!-- More information about AbiWord is available at http://www.abisource.com/ -->
+<!-- You should not edit this file by hand.                                   -->
+<!-- ======================================================================== -->
+
+<metadata>
+<m key="dc.format">application/x-abiword</m>
+<m key="abiword.generator">AbiWord</m>
+<m key="dc.creator">William Hales</m>
+</metadata>
+<history version="65" edit-time="19560" last-saved="1340098870" uid="b3046acc-0394-11e1-802e-c10bf7dc2144">
+<version id="74" started="1320048169" uid="780544a0-03a3-11e1-802e-c10bf7dc2144" auto="0" top-xid="6"/>
+<version id="75" started="1320054103" uid="8a939cd8-03a4-11e1-859f-af9de1fd8c82" auto="0" top-xid="37"/>
+<version id="1" started="1320054244" uid="dee49ecc-03a4-11e1-960d-a78f474f258c" auto="0" top-xid="37"/>
+<version id="1" started="1322366507" uid="8738f494-18ac-11e1-9c8e-e2c6425b458b" auto="0" top-xid="39"/>
+<version id="1" started="1322366829" uid="46fc3818-18ad-11e1-93ab-d5374fe1235f" auto="0" top-xid="41"/>
+<version id="11" started="1330235749" uid="ebea33ee-6041-11e1-9f01-c55a7c5b3e7a" auto="0" top-xid="75"/>
+<version id="36" started="1331028219" uid="c322cb64-6777-11e1-91c9-d8e2399a54fa" auto="0" top-xid="135"/>
+<version id="47" started="1338976591" uid="03158622-afc0-11e1-92f2-e3d4723c21c5" auto="0" top-xid="197"/>
+<version id="53" started="1338977681" uid="7120bd38-afc2-11e1-9adb-c88b823bd95f" auto="0" top-xid="284"/>
+<version id="55" started="1339755333" uid="590e5a58-b6d3-11e1-824a-b8c060a8ebeb" auto="0" top-xid="319"/>
+<version id="59" started="1340006823" uid="c50a44ca-b939-11e1-9e4f-cfbc629bf2f0" auto="0" top-xid="324"/>
+<version id="60" started="1340090520" uid="75c5d324-b9df-11e1-9546-bb9e6c8f63d6" auto="0" top-xid="353"/>
+<version id="65" started="1340098349" uid="e6c1a8d8-b9f2-11e1-80d1-ef52235a1c22" auto="0" top-xid="353"/>
+</history>
+<styles>
+<s followedby="A - Subtitle" name="A - Title" basedon="A - Normal" type="P" props="text-indent:0in; orphans:2; margin-top:0in; margin-left:0in; list-decimal:.; line-height:1.0; keep-with-next:no; text-align:center; list-style:None; bgcolor:transparent; lang:en-AU; dom-dir:ltr; margin-bottom:0in; font-weight:bold; text-decoration:none; start-value:1; font-variant:normal; color:000000; font-stretch:normal; keep-together:no; font-size:16pt; margin-right:0in; font-style:normal; widows:2; list-delim:%L; font-family:Gentium Basic"/>
+<s followedby="Current Settings" name="A - Normal" basedon="None" type="P" props="text-indent:0in; orphans:2; margin-top:0pt; margin-left:0.50cm; list-decimal:.; line-height:1.0; keep-with-next:no; text-align:left; list-style:None; bgcolor:transparent; lang:en-AU; dom-dir:ltr; margin-bottom:6pt; font-weight:normal; text-decoration:none; start-value:1; font-variant:normal; color:000000; font-stretch:normal; keep-together:no; font-size:11pt; margin-right:0in; font-style:normal; widows:2; list-delim:%L; font-family:Gentium Basic"/>
+<s followedby="A - Normal" name="A - Subtitle" basedon="A - Normal" type="P" props="text-indent:0in; orphans:2; margin-top:0in; margin-left:0in; list-decimal:.; line-height:1.0; keep-with-next:no; text-align:center; list-style:None; bgcolor:transparent; lang:en-AU; dom-dir:ltr; margin-bottom:0in; font-weight:normal; text-decoration:none; start-value:1; font-variant:normal; color:000000; font-stretch:normal; keep-together:no; font-size:11pt; margin-right:0in; font-style:italic; widows:2; list-delim:%L; font-family:Gentium Basic"/>
+<s followedby="A - Normal" name="B - Heading 1" basedon="None" type="P" props="text-indent:0in; orphans:2; margin-top:32pt; margin-left:0in; list-decimal:.; line-height:1.0; keep-with-next:no; text-align:left; list-style:None; bgcolor:transparent; lang:en-AU; dom-dir:ltr; margin-bottom:0pt; font-weight:bold; text-decoration:none; start-value:1; font-variant:normal; color:000000; font-stretch:normal; keep-together:no; font-size:14pt; margin-right:0in; font-style:normal; widows:2; list-delim:%L; font-family:Century Schoolbook L"/>
+<s followedby="A - Normal" name="B - Heading 2" basedon="B - Heading 1" type="P" props="text-indent:0in; orphans:2; margin-top:16pt; margin-left:0.50cm; list-decimal:.; line-height:1.0; keep-with-next:no; text-align:left; list-style:None; bgcolor:transparent; lang:en-AU; dom-dir:ltr; margin-bottom:0pt; font-weight:bold; text-decoration:none; start-value:1; font-variant:normal; color:000000; font-stretch:normal; keep-together:no; font-size:12pt; margin-right:0in; font-style:normal; widows:2; list-delim:%L; font-family:Century Schoolbook L"/>
+<s type="P" name="3" props="margin-top:0.3056in; font-size:12pt; margin-bottom:0.0417in; font-family:Liberation Sans"/>
+<s followedby="Current Settings" name="C - Monospace" basedon="A - Normal" type="P" props="text-indent:0in; orphans:2; margin-top:0pt; margin-left:0.80cm; list-decimal:.; line-height:1.0; keep-with-next:no; text-align:left; list-style:None; bgcolor:transparent; lang:en-AU; dom-dir:ltr; margin-bottom:0pt; font-weight:normal; text-decoration:none; start-value:1; font-variant:normal; color:000000; font-stretch:normal; keep-together:no; font-size:9pt; margin-right:0pt; font-style:normal; widows:2; list-delim:%L; font-family:DejaVu Sans Mono"/>
+<s type="P" name="Block Text" basedon="None" followedby="Current Settings" props="margin-bottom:6pt; margin-right:1in; margin-left:1in"/>
+<s followedby="Current Settings" name="Heading 2" basedon="None" type="P" props="font-size:14pt; margin-top:22pt; font-weight:bold; margin-bottom:3pt; font-family:Liberation Sans; keep-with-next:1"/>
+<s followedby="Current Settings" name="Heading 4" basedon="None" type="P" props="font-size:12pt; margin-top:22pt; font-weight:bold; margin-bottom:3pt; font-family:Liberation Sans; keep-with-next:1"/>
+<s followedby="Current Settings" name="Contents Header" basedon="None" type="P" props="margin-top:12pt; font-size:16pt; margin-bottom:6pt; font-weight:bold; text-align:center; keep-with-next:1; font-family:Liberation Sans"/>
+<s type="P" name="Footnote Text" basedon="None" followedby="Current Settings" props="text-position:normal; font-size:10pt"/>
+<s followedby="Current Settings" name="Heading 3" basedon="None" type="P" props="font-size:12pt; margin-top:22pt; font-weight:bold; margin-bottom:3pt; font-family:Liberation Sans; keep-with-next:1"/>
+<s type="P" name="Numbered List" followedby="Current Settings" props="list-delim:%L.; list-decimal:.; list-style:Numbered List; start-value:1; field-color:transparent; margin-left:0.500000in; text-indent:-0.300000in; field-font:NULL"/>
+<s type="C" name="Reference" props="font-size:10pt"/>
+<s type="P" name="Header" props="text-align:center; margin-top:0.1667in; font-size:16pt; margin-bottom:0.0833in; font-family:Liberation Sans"/>
+<s type="P" name="2" props="margin-top:0.3056in; font-size:14pt; margin-bottom:0.0417in; font-family:Liberation Sans"/>
+<s type="P" name="4" props="margin-top:0.3056in; font-size:12pt; margin-bottom:0.0417in; font-family:Liberation Sans"/>
+<s type="P" name="B - Heading 3" basedon="B - Heading 2" followedby="A - Normal" props="text-folded-id:0; lang:en-AU; font-variant:normal; margin-bottom:0pt; bgcolor:transparent; color:000000; font-size:11pt; margin-right:0in; text-position:normal; height:0in; format:%*%d.; font-style:italic; text-decoration:none; keep-together:no; text-align:left; widows:2; list-tag:0; keep-with-next:no; text-indent:0in; width:0in; line-height:1.0; start-value:1; list-decimal:.; list-delim:%L; orphans:2; font-weight:bold; margin-left:0.50cm; text-folded:0; font-stretch:normal; font-family:Century Schoolbook L; default-tab-interval:0.5in; list-style:None; homogeneous:1; display:inline; dom-dir:ltr; margin-top:16pt; text-transform:none"/>
+<s type="P" name="Endnote" basedon="None" followedby="Current Settings" props="text-indent:-0.2in; text-position:normal; margin-left:0.2in"/>
+<s type="P" name="Footnote" basedon="None" followedby="Current Settings" props="text-indent:-0.2in; font-size:10pt; text-position:normal; margin-left:0.2in"/>
+<s type="P" name="Lower Roman List" basedon="None" followedby="Current Settings" props="list-delim:%L; list-decimal:.; list-style:Lower Roman List; start-value:1; field-color:transparent; margin-left:0.500000in; text-indent:-0.300000in; field-font:NULL"/>
+<s type="P" name="Endnote Text" basedon="None" followedby="Current Settings" props="text-position:normal"/>
+<s followedby="Current Settings" name="Numbered Heading 1" basedon="None" type="P" props="list-delim:%L.; list-style:Numbered List; start-value:1; field-color:transparent; field-font:Liberation Sans; margin-left:0.0in; text-indent:0.0in; tabstops:0.3in/L0"/>
+<s followedby="Current Settings" name="Numbered Heading 2" basedon="Heading 2" type="P" props="list-delim:%L.; list-style:Numbered List; start-value:1; field-color:transparent; tabstops:0.3in/L0; margin-left:0.0in; text-indent:0.0in; field-font:Liberation Sans"/>
+<s followedby="Current Settings" name="Numbered Heading 3" basedon="Heading 3" type="P" props="list-delim:%L.; list-style:Numbered List; start-value:1; field-color:transparent; tabstops:0.3in/L0; margin-left:0.0in; text-indent:0.0in; field-font:Liberation Sans"/>
+<s followedby="Current Settings" name="Chapter Heading" basedon="Numbered Heading 1" type="P" props="list-delim:Chapter %L.; list-style:Numbered List; start-value:1; field-color:transparent; field-font:Liberation Sans; margin-left:0.0in; text-indent:0.0in; tabstops:1.1in/L0"/>
+<s followedby="Current Settings" name="Contents 1" basedon="None" type="P" props="list-delim:%L.; list-decimal:.; list-style:Numbered List; start-value:1; field-color:transparent; margin-left:0.500000in; text-indent:-0.300000in; field-font:NULL"/>
+<s followedby="Current Settings" name="Contents 2" basedon="None" type="P" props="list-delim:%L.; list-decimal:.; list-style:Numbered List; start-value:1; field-color:transparent; margin-left:1.000000in; text-indent:-0.300000in; field-font:NULL"/>
+<s followedby="Current Settings" name="Contents 3" basedon="None" type="P" props="list-delim:%L.; list-decimal:.; list-style:Numbered List; start-value:1; field-color:transparent; margin-left:1.500000in; text-indent:-0.300000in; field-font:NULL"/>
+<s followedby="Current Settings" name="Contents 4" basedon="None" type="P" props="list-delim:%L.; list-decimal:.; list-style:Numbered List; start-value:1; field-color:transparent; margin-left:2.000000in; text-indent:-0.300000in; field-font:NULL"/>
+</styles>
+<pagesize pagetype="A4" orientation="portrait" width="8.267717" height="11.692913" units="in" page-scale="1.000000"/>
+<section xid="2" props="page-margin-footer:1.27cm; page-margin-header:1.27cm; page-margin-right:1.50cm; page-margin-left:1.50cm; page-margin-top:1.00cm; page-margin-bottom:1.00cm">
+<p style="A - Title" xid="3" props="text-position:normal"><c>Administrator and Maintenance documentation for</c> ‘The Echidna Menace’<c></c></p>
+<p style="A - Subtitle" xid="42" props="text-position:normal">Copyright William Hales 2012<c></c></p>
+<p style="B - Heading 1" xid="341"><c>Networking Information</c></p>
+<p style="A - Normal" xid="354"><c>This game does not use any network features or functionality.  If the game is interfering or being interfered with by function of a network, it is most likely not the game’s fault.</c></p>
+<p style="B - Heading 1" xid="355"><c>Administration Information</c></p>
+<p style="A - Normal" xid="356"><c>The levels and resources of this game can be altered by any player.  If you wish to secure the game and its resources, write protecting all of them will not damage game function in any way.</c></p>
+<p style="B - Heading 1" xid="357"><c>Trouble-shooting game problems</c></p>
+<p style="B - Heading 2" xid="358"><c>The game does not start</c></p>
+<p style="A - Normal" xid="359"><c>Do you meet all minimal requirements?  </c></p>
+<p style="A - Normal" xid="367"><c>	- You may need a better computer.</c></p>
+<p style="A - Normal" xid="360"><c>Have you changed any game files? </c></p>
+<p style="A - Normal" xid="369"><c>	- Filenames are important</c></p>
+<p style="A - Normal" xid="378"><c>	- All of the graphics files ending in ‘.png’ must be in the folder with the game </c></p>
+<p style="A - Normal" xid="368"><c>	- You may need a fresh copy of the game</c></p>
+<p style="A - Normal" xid="362"><c>Also see: levels crash</c></p>
+<p style="B - Heading 2" xid="363"><c>Levels Crash</c></p>
+<p style="A - Normal" xid="365"><c>Have you made your own level or modified the levels?</c></p>
+<p style="A - Normal" xid="370"><c>	- If an echidna is surrounded by 4 walls, the game will get stuck in a loop</c></p>
+<p style="A - Normal" xid="371"><c>	- Check your level file syntax.  Even the tiniest deviation will cause unforseen consequences</c></p>
+<p style="B - Heading 2" xid="372"><c>The game exits upon trying to load the first or a certain level</c></p>
+<p style="A - Normal" xid="373"><c>Have you removed any game data files?</c></p>
+<p style="A - Normal" xid="374"><c>	- A missing level file will cause the game to quit when it tries to load it</c></p>
+<p style="A - Normal" xid="375"><c>Have you renamed or moved any game data files?</c></p>
+<p style="A - Normal" xid="376"><c>	- A missing level file will cause the game to quit when it tries to load it</c></p>
+<p style="B - Heading 2" xid="377"><c>A level is impossible</c></p>
+<p style="A - Normal" xid="379"><c>None of the levels are impossible.  You are just not good enough.</c></p>
+<p style="B - Heading 2" xid="380"><c>I discovered a bug</c></p>
+<p style="A - Normal" xid="381"><c>Please contact me, William Hales ( william.hales@education.nsw.gov.au ) to file a bug report.</c></p>
+<p style="A - Normal" xid="361"><c>	</c></p>
+</section>
+</abiword>
