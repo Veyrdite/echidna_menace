@@ -8,7 +8,7 @@ Fun 2D SDL maze-game I created as a high-school project.  Notable features inclu
 
 The game is very much possible to win even though it quickly becomes a challenge.  Once you discover the wonderful logic hole brought about by the grid-based gameplay,  you will be able to dance with the AI harmlessly.  I'm not sure if the game is winnable without exploiting this glitch: there is a challenge for you!
 
-![Screenshot of a level that utilises all game elements]: https://raw.github.com/veyrdite/echidna_menace/master/screenshot.png
+![Screenshot of a level that utilises all game elements](https://raw.github.com/veyrdite/echidna_menace/master/screenshot.png)
 
 The source code is split over multiple C files which are #included into main.c .  When I started writing this I took one look at #IFDEF shenanigans and ran away.
 
